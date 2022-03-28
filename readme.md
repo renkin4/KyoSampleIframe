@@ -1,5 +1,7 @@
 # Installation Guide
 
+![preview image](https://raw.githubusercontent.com/renkin4/KyoSampleIframe/main/preview.png);
+
 ## Cloning
 
 You can download the project or clone it  
