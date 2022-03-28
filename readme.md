@@ -1,6 +1,6 @@
 # Installation Guide
 
-![preview image](https://raw.githubusercontent.com/renkin4/KyoSampleIframe/main/preview.png);
+![preview image](https://raw.githubusercontent.com/renkin4/KyoSampleIframe/main/preview.png)
 
 ## Cloning
 
