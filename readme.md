@@ -3,7 +3,7 @@
 ## Cloning
 
 You can download the project or clone it  
-Click on the green color button code button.
+Click on the <span style="color:green">**green color**</span> **button** code button.
 
 ## Cloning project
 
